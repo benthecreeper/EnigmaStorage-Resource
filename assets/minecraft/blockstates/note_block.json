@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "instrument=harp,note=0,powered=false": { "model": "minecraft:block/enigma/enigma_dsu_empty" },
+    "instrument=harp,note=0,powered=true":  { "model": "minecraft:block/enigma/enigma_dsu_empty" },
+    "instrument=harp,note=1,powered=false": { "model": "minecraft:block/enigma/enigma_dsu_server1" },
+    "instrument=harp,note=1,powered=true":  { "model": "minecraft:block/enigma/enigma_dsu_server1" },
+    "instrument=harp,note=2,powered=false": { "model": "minecraft:block/enigma/enigma_dsu_server2" },
+    "instrument=harp,note=2,powered=true":  { "model": "minecraft:block/enigma/enigma_dsu_server2" },
+    "instrument=harp,note=3,powered=false": { "model": "minecraft:block/enigma/enigma_dsu_server3" },
+    "instrument=harp,note=3,powered=true":  { "model": "minecraft:block/enigma/enigma_dsu_server3" },
+    "instrument=harp,note=4,powered=false": { "model": "minecraft:block/enigma/enigma_dsu_server4" },
+    "instrument=harp,note=4,powered=true":  { "model": "minecraft:block/enigma/enigma_dsu_server4" },
+    "instrument=harp,note=5,powered=false": { "model": "minecraft:block/enigma/enigma_dsu_server5" },
+    "instrument=harp,note=5,powered=true":  { "model": "minecraft:block/enigma/enigma_dsu_server5" }
+  }
+}

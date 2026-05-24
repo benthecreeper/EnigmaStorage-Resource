@@ -125,41 +125,6 @@
           "type": "model",
           "model": "item/stone_axe_12"
         }
-      },
-      {
-        "threshold": 13022,
-        "model": {
-          "type": "model",
-          "model": "item/stone_axe_next_off"
-        }
-      },
-      {
-        "threshold": 13023,
-        "model": {
-          "type": "model",
-          "model": "item/stone_axe_previous_off"
-        }
-      },
-      {
-        "threshold": 13024,
-        "model": {
-          "type": "model",
-          "model": "item/stone_axe_sort"
-        }
-      },
-      {
-        "threshold": 13025,
-        "model": {
-          "type": "model",
-          "model": "item/stone_axe_empty"
-        }
-      },
-      {
-        "threshold": 13026,
-        "model": {
-          "type": "model",
-          "model": "item/stone_axe_workbench"
-        }
       }
     ]
   }
